@@ -1,2 +1,6 @@
 # practice_test_js
-- simple test using assert js from node
+____
+## simple test using jest 
+- --verbose: show more info about the test
+- --watch: keep watch changes in files
+
