@@ -1,2 +1,2 @@
 # practice_test_js
-- simple test in pure javascript
+- simple test using assert js from node
