@@ -1,6 +1,7 @@
 # practice_test_js
 ____
 ## simple test using jest 
-- --verbose: show more info about the test
-- --watch: keep watch changes in files
+- toEqual
+- [more info about ](https://medium.com/laboratoria-developers/por-valor-vs-por-referencia-en-javascript-de3daf53a8b9)
+
 
